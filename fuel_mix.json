@@ -1,0 +1,455 @@
+{
+  "output": "L1.3 \u2014 Fuel switching breakdown",
+  "description": "Share of installations by fuel displaced. Each fuel switch has a different GHG impact. Tracks which fuel types are being displaced fastest.",
+  "fuels_tracked": [
+    "natural_gas",
+    "oil",
+    "propane",
+    "electric_baseboard"
+  ],
+  "ghg_rates_tco2e_per_install": {
+    "natural_gas": 2.1,
+    "oil": 4.6,
+    "propane": 3.2,
+    "electric_baseboard": 0.4
+  },
+  "annual": [
+    {
+      "year": 2018,
+      "total": 20236,
+      "fuels": {
+        "natural_gas": {
+          "installs": 10522,
+          "share_pct": 52.0,
+          "ghg_avoided_tco2e_yr": 22096.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 2407,
+          "share_pct": 11.9,
+          "ghg_avoided_tco2e_yr": 11072.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1698,
+          "share_pct": 8.4,
+          "ghg_avoided_tco2e_yr": 5434.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 5609,
+          "share_pct": 27.7,
+          "ghg_avoided_tco2e_yr": 2244.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 40846.0,
+      "weighted_avg_ghg_per_install": 2.02
+    },
+    {
+      "year": 2019,
+      "total": 24574,
+      "fuels": {
+        "natural_gas": {
+          "installs": 12779,
+          "share_pct": 52.0,
+          "ghg_avoided_tco2e_yr": 26836.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 2694,
+          "share_pct": 11.0,
+          "ghg_avoided_tco2e_yr": 12392.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 2071,
+          "share_pct": 8.4,
+          "ghg_avoided_tco2e_yr": 6627.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 7030,
+          "share_pct": 28.6,
+          "ghg_avoided_tco2e_yr": 2812.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 48667.0,
+      "weighted_avg_ghg_per_install": 1.98
+    },
+    {
+      "year": 2020,
+      "total": 13447,
+      "fuels": {
+        "natural_gas": {
+          "installs": 7281,
+          "share_pct": 54.1,
+          "ghg_avoided_tco2e_yr": 15290.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1314,
+          "share_pct": 9.8,
+          "ghg_avoided_tco2e_yr": 6044.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1085,
+          "share_pct": 8.1,
+          "ghg_avoided_tco2e_yr": 3472.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 3767,
+          "share_pct": 28.0,
+          "ghg_avoided_tco2e_yr": 1507.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 26313.0,
+      "weighted_avg_ghg_per_install": 1.96
+    },
+    {
+      "year": 2021,
+      "total": 16053,
+      "fuels": {
+        "natural_gas": {
+          "installs": 8868,
+          "share_pct": 55.2,
+          "ghg_avoided_tco2e_yr": 18623.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1445,
+          "share_pct": 9.0,
+          "ghg_avoided_tco2e_yr": 6647.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1155,
+          "share_pct": 7.2,
+          "ghg_avoided_tco2e_yr": 3696.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 4585,
+          "share_pct": 28.6,
+          "ghg_avoided_tco2e_yr": 1834.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 30800.0,
+      "weighted_avg_ghg_per_install": 1.92
+    },
+    {
+      "year": 2022,
+      "total": 15762,
+      "fuels": {
+        "natural_gas": {
+          "installs": 8733,
+          "share_pct": 55.4,
+          "ghg_avoided_tco2e_yr": 18339.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1295,
+          "share_pct": 8.2,
+          "ghg_avoided_tco2e_yr": 5957.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1139,
+          "share_pct": 7.2,
+          "ghg_avoided_tco2e_yr": 3645.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 4595,
+          "share_pct": 29.2,
+          "ghg_avoided_tco2e_yr": 1838.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 29779.0,
+      "weighted_avg_ghg_per_install": 1.89
+    },
+    {
+      "year": 2023,
+      "total": 17287,
+      "fuels": {
+        "natural_gas": {
+          "installs": 9812,
+          "share_pct": 56.8,
+          "ghg_avoided_tco2e_yr": 20605.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1222,
+          "share_pct": 7.1,
+          "ghg_avoided_tco2e_yr": 5621.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1087,
+          "share_pct": 6.3,
+          "ghg_avoided_tco2e_yr": 3478.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 5166,
+          "share_pct": 29.9,
+          "ghg_avoided_tco2e_yr": 2066.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 31770.0,
+      "weighted_avg_ghg_per_install": 1.84
+    },
+    {
+      "year": 2024,
+      "total": 23135,
+      "fuels": {
+        "natural_gas": {
+          "installs": 12575,
+          "share_pct": 54.4,
+          "ghg_avoided_tco2e_yr": 26408.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1462,
+          "share_pct": 6.3,
+          "ghg_avoided_tco2e_yr": 6725.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1549,
+          "share_pct": 6.7,
+          "ghg_avoided_tco2e_yr": 4957.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 7549,
+          "share_pct": 32.6,
+          "ghg_avoided_tco2e_yr": 3020.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 41110.0,
+      "weighted_avg_ghg_per_install": 1.78
+    },
+    {
+      "year": 2025,
+      "total": 26757,
+      "fuels": {
+        "natural_gas": {
+          "installs": 13826,
+          "share_pct": 51.7,
+          "ghg_avoided_tco2e_yr": 29035.0,
+          "avg_ghg_per_install": 2.1
+        },
+        "oil": {
+          "installs": 1450,
+          "share_pct": 5.4,
+          "ghg_avoided_tco2e_yr": 6670.0,
+          "avg_ghg_per_install": 4.6
+        },
+        "propane": {
+          "installs": 1761,
+          "share_pct": 6.6,
+          "ghg_avoided_tco2e_yr": 5635.0,
+          "avg_ghg_per_install": 3.2
+        },
+        "electric_baseboard": {
+          "installs": 9720,
+          "share_pct": 36.3,
+          "ghg_avoided_tco2e_yr": 3888.0,
+          "avg_ghg_per_install": 0.4
+        }
+      },
+      "total_ghg_avoided_tco2e_yr": 45228.0,
+      "weighted_avg_ghg_per_install": 1.69
+    }
+  ],
+  "trend_by_fuel": {
+    "natural_gas": [
+      {
+        "year": 2018,
+        "share_pct": 52.0,
+        "installs": 10522
+      },
+      {
+        "year": 2019,
+        "share_pct": 52.0,
+        "installs": 12779
+      },
+      {
+        "year": 2020,
+        "share_pct": 54.1,
+        "installs": 7281
+      },
+      {
+        "year": 2021,
+        "share_pct": 55.2,
+        "installs": 8868
+      },
+      {
+        "year": 2022,
+        "share_pct": 55.4,
+        "installs": 8733
+      },
+      {
+        "year": 2023,
+        "share_pct": 56.8,
+        "installs": 9812
+      },
+      {
+        "year": 2024,
+        "share_pct": 54.4,
+        "installs": 12575
+      },
+      {
+        "year": 2025,
+        "share_pct": 51.7,
+        "installs": 13826
+      }
+    ],
+    "oil": [
+      {
+        "year": 2018,
+        "share_pct": 11.9,
+        "installs": 2407
+      },
+      {
+        "year": 2019,
+        "share_pct": 11.0,
+        "installs": 2694
+      },
+      {
+        "year": 2020,
+        "share_pct": 9.8,
+        "installs": 1314
+      },
+      {
+        "year": 2021,
+        "share_pct": 9.0,
+        "installs": 1445
+      },
+      {
+        "year": 2022,
+        "share_pct": 8.2,
+        "installs": 1295
+      },
+      {
+        "year": 2023,
+        "share_pct": 7.1,
+        "installs": 1222
+      },
+      {
+        "year": 2024,
+        "share_pct": 6.3,
+        "installs": 1462
+      },
+      {
+        "year": 2025,
+        "share_pct": 5.4,
+        "installs": 1450
+      }
+    ],
+    "propane": [
+      {
+        "year": 2018,
+        "share_pct": 8.4,
+        "installs": 1698
+      },
+      {
+        "year": 2019,
+        "share_pct": 8.4,
+        "installs": 2071
+      },
+      {
+        "year": 2020,
+        "share_pct": 8.1,
+        "installs": 1085
+      },
+      {
+        "year": 2021,
+        "share_pct": 7.2,
+        "installs": 1155
+      },
+      {
+        "year": 2022,
+        "share_pct": 7.2,
+        "installs": 1139
+      },
+      {
+        "year": 2023,
+        "share_pct": 6.3,
+        "installs": 1087
+      },
+      {
+        "year": 2024,
+        "share_pct": 6.7,
+        "installs": 1549
+      },
+      {
+        "year": 2025,
+        "share_pct": 6.6,
+        "installs": 1761
+      }
+    ],
+    "electric_baseboard": [
+      {
+        "year": 2018,
+        "share_pct": 27.7,
+        "installs": 5609
+      },
+      {
+        "year": 2019,
+        "share_pct": 28.6,
+        "installs": 7030
+      },
+      {
+        "year": 2020,
+        "share_pct": 28.0,
+        "installs": 3767
+      },
+      {
+        "year": 2021,
+        "share_pct": 28.6,
+        "installs": 4585
+      },
+      {
+        "year": 2022,
+        "share_pct": 29.2,
+        "installs": 4595
+      },
+      {
+        "year": 2023,
+        "share_pct": 29.9,
+        "installs": 5166
+      },
+      {
+        "year": 2024,
+        "share_pct": 32.6,
+        "installs": 7549
+      },
+      {
+        "year": 2025,
+        "share_pct": 36.3,
+        "installs": 9720
+      }
+    ]
+  },
+  "latest_year_snapshot": {
+    "year": 2025,
+    "dominant_fuel": "natural_gas",
+    "fuels": {
+      "natural_gas": 51.7,
+      "oil": 5.4,
+      "propane": 6.6,
+      "electric_baseboard": 36.3
+    },
+    "total_ghg_avoided_tco2e_yr": 45228.0
+  }
+}

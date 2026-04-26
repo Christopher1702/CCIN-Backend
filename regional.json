@@ -1,0 +1,669 @@
+{
+  "output": "L1.5 \u2014 Regional distribution",
+  "description": "Heat pump penetration by BC region. Surfaces geographic laggards for targeted program intervention.",
+  "regions_tracked": [
+    "Lower Mainland",
+    "Vancouver Island",
+    "Thompson-Okanagan",
+    "Fraser Valley",
+    "Northern BC",
+    "Kootenay-Boundary",
+    "Cariboo"
+  ],
+  "regional_housing_stock": {
+    "Lower Mainland": 870000,
+    "Vancouver Island": 333000,
+    "Thompson-Okanagan": 241000,
+    "Fraser Valley": 185000,
+    "Northern BC": 111000,
+    "Kootenay-Boundary": 74000,
+    "Cariboo": 37000
+  },
+  "annual": [
+    {
+      "year": 2018,
+      "provincial_total": 20236,
+      "provincial_pen_pct": 7.64,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 9791,
+          "share_of_province_pct": 48.4,
+          "cumulative_stock": 66693,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 7.67,
+          "delta_from_provincial_avg_pp": 0.03
+        },
+        "Vancouver Island": {
+          "installs": 3733,
+          "share_of_province_pct": 18.4,
+          "cumulative_stock": 25513,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 7.66,
+          "delta_from_provincial_avg_pp": 0.02
+        },
+        "Thompson-Okanagan": {
+          "installs": 2624,
+          "share_of_province_pct": 13.0,
+          "cumulative_stock": 18386,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 7.63,
+          "delta_from_provincial_avg_pp": -0.01
+        },
+        "Fraser Valley": {
+          "installs": 1903,
+          "share_of_province_pct": 9.4,
+          "cumulative_stock": 14003,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 7.57,
+          "delta_from_provincial_avg_pp": -0.07
+        },
+        "Northern BC": {
+          "installs": 1151,
+          "share_of_province_pct": 5.7,
+          "cumulative_stock": 8411,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 7.58,
+          "delta_from_provincial_avg_pp": -0.06
+        },
+        "Kootenay-Boundary": {
+          "installs": 737,
+          "share_of_province_pct": 3.6,
+          "cumulative_stock": 5577,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 7.54,
+          "delta_from_provincial_avg_pp": -0.1
+        },
+        "Cariboo": {
+          "installs": 297,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 2717,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 7.34,
+          "delta_from_provincial_avg_pp": -0.3
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Fraser Valley",
+        "Northern BC",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2019,
+      "provincial_total": 24574,
+      "provincial_pen_pct": 8.97,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 11852,
+          "share_of_province_pct": 48.2,
+          "cumulative_stock": 78545,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 9.03,
+          "delta_from_provincial_avg_pp": 0.06
+        },
+        "Vancouver Island": {
+          "installs": 4458,
+          "share_of_province_pct": 18.1,
+          "cumulative_stock": 29971,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 9.0,
+          "delta_from_provincial_avg_pp": 0.03
+        },
+        "Thompson-Okanagan": {
+          "installs": 3188,
+          "share_of_province_pct": 13.0,
+          "cumulative_stock": 21574,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 8.95,
+          "delta_from_provincial_avg_pp": -0.02
+        },
+        "Fraser Valley": {
+          "installs": 2433,
+          "share_of_province_pct": 9.9,
+          "cumulative_stock": 16436,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 8.88,
+          "delta_from_provincial_avg_pp": -0.09
+        },
+        "Northern BC": {
+          "installs": 1361,
+          "share_of_province_pct": 5.5,
+          "cumulative_stock": 9772,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 8.8,
+          "delta_from_provincial_avg_pp": -0.17
+        },
+        "Kootenay-Boundary": {
+          "installs": 905,
+          "share_of_province_pct": 3.7,
+          "cumulative_stock": 6482,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 8.76,
+          "delta_from_provincial_avg_pp": -0.21
+        },
+        "Cariboo": {
+          "installs": 377,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 3094,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 8.36,
+          "delta_from_provincial_avg_pp": -0.61
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2020,
+      "provincial_total": 13447,
+      "provincial_pen_pct": 9.69,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 6591,
+          "share_of_province_pct": 49.0,
+          "cumulative_stock": 85136,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 9.79,
+          "delta_from_provincial_avg_pp": 0.1
+        },
+        "Vancouver Island": {
+          "installs": 2525,
+          "share_of_province_pct": 18.8,
+          "cumulative_stock": 32496,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 9.76,
+          "delta_from_provincial_avg_pp": 0.07
+        },
+        "Thompson-Okanagan": {
+          "installs": 1688,
+          "share_of_province_pct": 12.6,
+          "cumulative_stock": 23262,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 9.65,
+          "delta_from_provincial_avg_pp": -0.04
+        },
+        "Fraser Valley": {
+          "installs": 1251,
+          "share_of_province_pct": 9.3,
+          "cumulative_stock": 17687,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 9.56,
+          "delta_from_provincial_avg_pp": -0.13
+        },
+        "Northern BC": {
+          "installs": 714,
+          "share_of_province_pct": 5.3,
+          "cumulative_stock": 10486,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 9.45,
+          "delta_from_provincial_avg_pp": -0.24
+        },
+        "Kootenay-Boundary": {
+          "installs": 482,
+          "share_of_province_pct": 3.6,
+          "cumulative_stock": 6964,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 9.41,
+          "delta_from_provincial_avg_pp": -0.28
+        },
+        "Cariboo": {
+          "installs": 196,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 3290,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 8.89,
+          "delta_from_provincial_avg_pp": -0.8
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2021,
+      "provincial_total": 16053,
+      "provincial_pen_pct": 10.56,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 7828,
+          "share_of_province_pct": 48.8,
+          "cumulative_stock": 92964,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 10.69,
+          "delta_from_provincial_avg_pp": 0.13
+        },
+        "Vancouver Island": {
+          "installs": 2850,
+          "share_of_province_pct": 17.8,
+          "cumulative_stock": 35346,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 10.61,
+          "delta_from_provincial_avg_pp": 0.05
+        },
+        "Thompson-Okanagan": {
+          "installs": 2041,
+          "share_of_province_pct": 12.7,
+          "cumulative_stock": 25303,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 10.5,
+          "delta_from_provincial_avg_pp": -0.06
+        },
+        "Fraser Valley": {
+          "installs": 1608,
+          "share_of_province_pct": 10.0,
+          "cumulative_stock": 19295,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 10.43,
+          "delta_from_provincial_avg_pp": -0.13
+        },
+        "Northern BC": {
+          "installs": 903,
+          "share_of_province_pct": 5.6,
+          "cumulative_stock": 11389,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 10.26,
+          "delta_from_provincial_avg_pp": -0.3
+        },
+        "Kootenay-Boundary": {
+          "installs": 585,
+          "share_of_province_pct": 3.6,
+          "cumulative_stock": 7549,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 10.2,
+          "delta_from_provincial_avg_pp": -0.36
+        },
+        "Cariboo": {
+          "installs": 238,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 3528,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 9.54,
+          "delta_from_provincial_avg_pp": -1.02
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2022,
+      "provincial_total": 15762,
+      "provincial_pen_pct": 11.41,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 7617,
+          "share_of_province_pct": 48.3,
+          "cumulative_stock": 100581,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 11.56,
+          "delta_from_provincial_avg_pp": 0.15
+        },
+        "Vancouver Island": {
+          "installs": 2805,
+          "share_of_province_pct": 17.8,
+          "cumulative_stock": 38151,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 11.46,
+          "delta_from_provincial_avg_pp": 0.05
+        },
+        "Thompson-Okanagan": {
+          "installs": 2079,
+          "share_of_province_pct": 13.2,
+          "cumulative_stock": 27382,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 11.36,
+          "delta_from_provincial_avg_pp": -0.05
+        },
+        "Fraser Valley": {
+          "installs": 1580,
+          "share_of_province_pct": 10.0,
+          "cumulative_stock": 20875,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 11.28,
+          "delta_from_provincial_avg_pp": -0.13
+        },
+        "Northern BC": {
+          "installs": 884,
+          "share_of_province_pct": 5.6,
+          "cumulative_stock": 12273,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 11.06,
+          "delta_from_provincial_avg_pp": -0.35
+        },
+        "Kootenay-Boundary": {
+          "installs": 565,
+          "share_of_province_pct": 3.6,
+          "cumulative_stock": 8114,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 10.96,
+          "delta_from_provincial_avg_pp": -0.45
+        },
+        "Cariboo": {
+          "installs": 232,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 3760,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 10.16,
+          "delta_from_provincial_avg_pp": -1.25
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2023,
+      "provincial_total": 17287,
+      "provincial_pen_pct": 12.35,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 8238,
+          "share_of_province_pct": 47.7,
+          "cumulative_stock": 108819,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 12.51,
+          "delta_from_provincial_avg_pp": 0.16
+        },
+        "Vancouver Island": {
+          "installs": 3344,
+          "share_of_province_pct": 19.3,
+          "cumulative_stock": 41495,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 12.46,
+          "delta_from_provincial_avg_pp": 0.11
+        },
+        "Thompson-Okanagan": {
+          "installs": 2217,
+          "share_of_province_pct": 12.8,
+          "cumulative_stock": 29599,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 12.28,
+          "delta_from_provincial_avg_pp": -0.07
+        },
+        "Fraser Valley": {
+          "installs": 1692,
+          "share_of_province_pct": 9.8,
+          "cumulative_stock": 22567,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 12.2,
+          "delta_from_provincial_avg_pp": -0.15
+        },
+        "Northern BC": {
+          "installs": 974,
+          "share_of_province_pct": 5.6,
+          "cumulative_stock": 13247,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 11.93,
+          "delta_from_provincial_avg_pp": -0.42
+        },
+        "Kootenay-Boundary": {
+          "installs": 571,
+          "share_of_province_pct": 3.3,
+          "cumulative_stock": 8685,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 11.74,
+          "delta_from_provincial_avg_pp": -0.61
+        },
+        "Cariboo": {
+          "installs": 251,
+          "share_of_province_pct": 1.5,
+          "cumulative_stock": 4011,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 10.84,
+          "delta_from_provincial_avg_pp": -1.51
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Vancouver Island",
+        "Lower Mainland"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Lower Mainland"
+    },
+    {
+      "year": 2024,
+      "provincial_total": 23135,
+      "provincial_pen_pct": 13.6,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 10788,
+          "share_of_province_pct": 46.6,
+          "cumulative_stock": 119607,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 13.75,
+          "delta_from_provincial_avg_pp": 0.15
+        },
+        "Vancouver Island": {
+          "installs": 4372,
+          "share_of_province_pct": 18.9,
+          "cumulative_stock": 45867,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 13.77,
+          "delta_from_provincial_avg_pp": 0.17
+        },
+        "Thompson-Okanagan": {
+          "installs": 3052,
+          "share_of_province_pct": 13.2,
+          "cumulative_stock": 32651,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 13.55,
+          "delta_from_provincial_avg_pp": -0.05
+        },
+        "Fraser Valley": {
+          "installs": 2286,
+          "share_of_province_pct": 9.9,
+          "cumulative_stock": 24853,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 13.43,
+          "delta_from_provincial_avg_pp": -0.17
+        },
+        "Northern BC": {
+          "installs": 1364,
+          "share_of_province_pct": 5.9,
+          "cumulative_stock": 14611,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 13.16,
+          "delta_from_provincial_avg_pp": -0.44
+        },
+        "Kootenay-Boundary": {
+          "installs": 874,
+          "share_of_province_pct": 3.8,
+          "cumulative_stock": 9559,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 12.92,
+          "delta_from_provincial_avg_pp": -0.68
+        },
+        "Cariboo": {
+          "installs": 399,
+          "share_of_province_pct": 1.7,
+          "cumulative_stock": 4410,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 11.92,
+          "delta_from_provincial_avg_pp": -1.68
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Lower Mainland",
+        "Vancouver Island"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Vancouver Island"
+    },
+    {
+      "year": 2025,
+      "provincial_total": 26757,
+      "provincial_pen_pct": 15.04,
+      "regions": {
+        "Lower Mainland": {
+          "installs": 12753,
+          "share_of_province_pct": 47.7,
+          "cumulative_stock": 132360,
+          "regional_housing_stock": 870000,
+          "penetration_pct": 15.21,
+          "delta_from_provincial_avg_pp": 0.17
+        },
+        "Vancouver Island": {
+          "installs": 4924,
+          "share_of_province_pct": 18.4,
+          "cumulative_stock": 50791,
+          "regional_housing_stock": 333000,
+          "penetration_pct": 15.25,
+          "delta_from_provincial_avg_pp": 0.21
+        },
+        "Thompson-Okanagan": {
+          "installs": 3538,
+          "share_of_province_pct": 13.2,
+          "cumulative_stock": 36189,
+          "regional_housing_stock": 241000,
+          "penetration_pct": 15.02,
+          "delta_from_provincial_avg_pp": -0.02
+        },
+        "Fraser Valley": {
+          "installs": 2587,
+          "share_of_province_pct": 9.7,
+          "cumulative_stock": 27440,
+          "regional_housing_stock": 185000,
+          "penetration_pct": 14.83,
+          "delta_from_provincial_avg_pp": -0.21
+        },
+        "Northern BC": {
+          "installs": 1507,
+          "share_of_province_pct": 5.6,
+          "cumulative_stock": 16118,
+          "regional_housing_stock": 111000,
+          "penetration_pct": 14.52,
+          "delta_from_provincial_avg_pp": -0.52
+        },
+        "Kootenay-Boundary": {
+          "installs": 1004,
+          "share_of_province_pct": 3.8,
+          "cumulative_stock": 10563,
+          "regional_housing_stock": 74000,
+          "penetration_pct": 14.27,
+          "delta_from_provincial_avg_pp": -0.77
+        },
+        "Cariboo": {
+          "installs": 444,
+          "share_of_province_pct": 1.7,
+          "cumulative_stock": 4854,
+          "regional_housing_stock": 37000,
+          "penetration_pct": 13.12,
+          "delta_from_provincial_avg_pp": -1.92
+        }
+      },
+      "ranked_by_penetration_asc": [
+        "Cariboo",
+        "Kootenay-Boundary",
+        "Northern BC",
+        "Fraser Valley",
+        "Thompson-Okanagan",
+        "Lower Mainland",
+        "Vancouver Island"
+      ],
+      "laggard_region": "Cariboo",
+      "leader_region": "Vancouver Island"
+    }
+  ],
+  "latest_year_snapshot": {
+    "year": 2025,
+    "provincial_pen_pct": 15.04,
+    "laggard_region": "Cariboo",
+    "laggard_pen_pct": 13.12,
+    "leader_region": "Vancouver Island",
+    "leader_pen_pct": 15.25,
+    "spread_pp": 2.13,
+    "ranked": [
+      {
+        "rank": 1,
+        "region": "Cariboo",
+        "penetration_pct": 13.12,
+        "delta_pp": -1.92
+      },
+      {
+        "rank": 2,
+        "region": "Kootenay-Boundary",
+        "penetration_pct": 14.27,
+        "delta_pp": -0.77
+      },
+      {
+        "rank": 3,
+        "region": "Northern BC",
+        "penetration_pct": 14.52,
+        "delta_pp": -0.52
+      },
+      {
+        "rank": 4,
+        "region": "Fraser Valley",
+        "penetration_pct": 14.83,
+        "delta_pp": -0.21
+      },
+      {
+        "rank": 5,
+        "region": "Thompson-Okanagan",
+        "penetration_pct": 15.02,
+        "delta_pp": -0.02
+      },
+      {
+        "rank": 6,
+        "region": "Lower Mainland",
+        "penetration_pct": 15.21,
+        "delta_pp": 0.17
+      },
+      {
+        "rank": 7,
+        "region": "Vancouver Island",
+        "penetration_pct": 15.25,
+        "delta_pp": 0.21
+      }
+    ]
+  }
+}

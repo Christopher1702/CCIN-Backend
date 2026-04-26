@@ -1,0 +1,137 @@
+{
+  "output": "L1.6 \u2014 Income tier distribution",
+  "description": "Share of installations reaching low/middle-income vs market-rate households. Equity signal for CleanBC programme evaluation.",
+  "lmi_target_pct": 40.0,
+  "annual": [
+    {
+      "year": 2018,
+      "total_installs": 20236,
+      "lmi_installs": 4252,
+      "market_rate_installs": 15984,
+      "lmi_share_pct": 21.0,
+      "market_share_pct": 79.0,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 19.0,
+      "lmi_energy_savings_cad": 3726430,
+      "mkt_energy_savings_cad": 13745500,
+      "lmi_savings_share_pct": 21.3
+    },
+    {
+      "year": 2019,
+      "total_installs": 24574,
+      "lmi_installs": 5272,
+      "market_rate_installs": 19302,
+      "lmi_share_pct": 21.5,
+      "market_share_pct": 78.5,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 18.5,
+      "lmi_energy_savings_cad": 4564900,
+      "mkt_energy_savings_cad": 16407080,
+      "lmi_savings_share_pct": 21.8
+    },
+    {
+      "year": 2020,
+      "total_installs": 13447,
+      "lmi_installs": 3183,
+      "market_rate_installs": 10264,
+      "lmi_share_pct": 23.7,
+      "market_share_pct": 76.3,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 16.3,
+      "lmi_energy_savings_cad": 2750160,
+      "mkt_energy_savings_cad": 8699170,
+      "lmi_savings_share_pct": 24.0
+    },
+    {
+      "year": 2021,
+      "total_installs": 16053,
+      "lmi_installs": 3980,
+      "market_rate_installs": 12073,
+      "lmi_share_pct": 24.8,
+      "market_share_pct": 75.2,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 15.2,
+      "lmi_energy_savings_cad": 3420750,
+      "mkt_energy_savings_cad": 10106040,
+      "lmi_savings_share_pct": 25.3
+    },
+    {
+      "year": 2022,
+      "total_installs": 15762,
+      "lmi_installs": 4043,
+      "market_rate_installs": 11719,
+      "lmi_share_pct": 25.7,
+      "market_share_pct": 74.3,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 14.3,
+      "lmi_energy_savings_cad": 3442780,
+      "mkt_energy_savings_cad": 9722930,
+      "lmi_savings_share_pct": 26.1
+    },
+    {
+      "year": 2023,
+      "total_installs": 17287,
+      "lmi_installs": 4532,
+      "market_rate_installs": 12755,
+      "lmi_share_pct": 26.2,
+      "market_share_pct": 73.8,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": false,
+      "gap_to_lmi_target_pp": 13.8,
+      "lmi_energy_savings_cad": 3799160,
+      "mkt_energy_savings_cad": 10435960,
+      "lmi_savings_share_pct": 26.7
+    },
+    {
+      "year": 2024,
+      "total_installs": 23135,
+      "lmi_installs": 9364,
+      "market_rate_installs": 13771,
+      "lmi_share_pct": 40.5,
+      "market_share_pct": 59.5,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": true,
+      "gap_to_lmi_target_pp": 0.0,
+      "lmi_energy_savings_cad": 7599340,
+      "mkt_energy_savings_cad": 10968210,
+      "lmi_savings_share_pct": 40.9
+    },
+    {
+      "year": 2025,
+      "total_installs": 26757,
+      "lmi_installs": 11800,
+      "market_rate_installs": 14957,
+      "lmi_share_pct": 44.1,
+      "market_share_pct": 55.9,
+      "lmi_target_pct": 40.0,
+      "meets_lmi_target": true,
+      "gap_to_lmi_target_pp": 0.0,
+      "lmi_energy_savings_cad": 9220100,
+      "mkt_energy_savings_cad": 11479560,
+      "lmi_savings_share_pct": 44.5
+    }
+  ],
+  "programme_effect_energy_savings_programme": {
+    "launch_date": "June 2024",
+    "avg_lmi_share_pre_esp_pct": 23.8,
+    "avg_lmi_share_post_esp_pct": 42.3,
+    "lmi_share_uplift_pp": 18.5,
+    "note": "Interrupted time series analysis of programme effect is a Layer 2 output."
+  },
+  "years_meeting_lmi_target": [
+    2024,
+    2025
+  ],
+  "latest_year_snapshot": {
+    "year": 2025,
+    "lmi_share_pct": 44.1,
+    "meets_target": true,
+    "gap_pp": 0.0,
+    "lmi_savings_cad": 9220100
+  }
+}

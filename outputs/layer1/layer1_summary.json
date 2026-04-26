@@ -1,0 +1,34 @@
+{
+  "layer": "Layer 1 \u2014 Descriptive Statistics",
+  "dataset": "CCIN v2 synthetic dataset \u00b7 2018\u20132025",
+  "generated_at": "2026-04-26T10:17:16.040586",
+  "key_stats": {
+    "current_stock": 285290,
+    "current_penetration_pct": 15.42,
+    "gap_to_target": 499710,
+    "target_2030": 785000,
+    "pct_of_target_achieved": 36.3,
+    "total_installs_2018_2025": 157251,
+    "required_annual_rate": 126687.0,
+    "peak_month": "2025-05",
+    "mean_monthly_installs": 1638.0,
+    "dominant_fuel_2025": "natural_gas",
+    "total_ghg_avoided_2025": 45228.0,
+    "dominant_type_2025": "mini_split",
+    "ground_source_growth_pp": 3.3,
+    "laggard_region_2025": "Cariboo",
+    "laggard_pen_pct": 13.12,
+    "regional_spread_pp": 2.13,
+    "lmi_share_2025_pct": 44.1,
+    "meets_lmi_target": true,
+    "esp_lmi_uplift_pp": 18.5
+  },
+  "outputs_computed": [
+    "stock",
+    "flow",
+    "fuel_mix",
+    "hp_type_mix",
+    "regional",
+    "income_tier"
+  ]
+}

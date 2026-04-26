@@ -1,0 +1,935 @@
+{
+  "output": "L1.1 \u2014 Total heat pump stock",
+  "description": "Cumulative BC households with a heat pump. Monthly series plus annual end-of-year snapshots.",
+  "bc_total_households": 1850000,
+  "target_2030": 785000,
+  "current_stock_dec_2025": 285290,
+  "current_penetration_pct": 15.42,
+  "gap_to_target": 499710,
+  "stock_cagr_2018_2025_pct": 12.87,
+  "years_to_target_at_current_cagr": 8.4,
+  "monthly": [
+    {
+      "period": "2018-01",
+      "year": 2018,
+      "month": 1,
+      "monthly_installs": 1123,
+      "cumulative_stock": 122281,
+      "penetration_pct": 6.61,
+      "gap_to_target": 662719
+    },
+    {
+      "period": "2018-02",
+      "year": 2018,
+      "month": 2,
+      "monthly_installs": 1268,
+      "cumulative_stock": 123627,
+      "penetration_pct": 6.68,
+      "gap_to_target": 661373
+    },
+    {
+      "period": "2018-03",
+      "year": 2018,
+      "month": 3,
+      "monthly_installs": 1864,
+      "cumulative_stock": 125602,
+      "penetration_pct": 6.79,
+      "gap_to_target": 659398
+    },
+    {
+      "period": "2018-04",
+      "year": 2018,
+      "month": 4,
+      "monthly_installs": 2183,
+      "cumulative_stock": 127725,
+      "penetration_pct": 6.9,
+      "gap_to_target": 657275
+    },
+    {
+      "period": "2018-05",
+      "year": 2018,
+      "month": 5,
+      "monthly_installs": 1897,
+      "cumulative_stock": 129770,
+      "penetration_pct": 7.01,
+      "gap_to_target": 655230
+    },
+    {
+      "period": "2018-06",
+      "year": 2018,
+      "month": 6,
+      "monthly_installs": 1888,
+      "cumulative_stock": 131658,
+      "penetration_pct": 7.12,
+      "gap_to_target": 653342
+    },
+    {
+      "period": "2018-07",
+      "year": 2018,
+      "month": 7,
+      "monthly_installs": 1610,
+      "cumulative_stock": 133314,
+      "penetration_pct": 7.21,
+      "gap_to_target": 651686
+    },
+    {
+      "period": "2018-08",
+      "year": 2018,
+      "month": 8,
+      "monthly_installs": 1550,
+      "cumulative_stock": 134907,
+      "penetration_pct": 7.29,
+      "gap_to_target": 650093
+    },
+    {
+      "period": "2018-09",
+      "year": 2018,
+      "month": 9,
+      "monthly_installs": 1813,
+      "cumulative_stock": 136849,
+      "penetration_pct": 7.4,
+      "gap_to_target": 648151
+    },
+    {
+      "period": "2018-10",
+      "year": 2018,
+      "month": 10,
+      "monthly_installs": 1848,
+      "cumulative_stock": 138664,
+      "penetration_pct": 7.5,
+      "gap_to_target": 646336
+    },
+    {
+      "period": "2018-11",
+      "year": 2018,
+      "month": 11,
+      "monthly_installs": 1634,
+      "cumulative_stock": 140390,
+      "penetration_pct": 7.59,
+      "gap_to_target": 644610
+    },
+    {
+      "period": "2018-12",
+      "year": 2018,
+      "month": 12,
+      "monthly_installs": 1558,
+      "cumulative_stock": 142003,
+      "penetration_pct": 7.68,
+      "gap_to_target": 642997
+    },
+    {
+      "period": "2019-01",
+      "year": 2019,
+      "month": 1,
+      "monthly_installs": 1482,
+      "cumulative_stock": 143444,
+      "penetration_pct": 7.75,
+      "gap_to_target": 641556
+    },
+    {
+      "period": "2019-02",
+      "year": 2019,
+      "month": 2,
+      "monthly_installs": 1462,
+      "cumulative_stock": 145023,
+      "penetration_pct": 7.84,
+      "gap_to_target": 639977
+    },
+    {
+      "period": "2019-03",
+      "year": 2019,
+      "month": 3,
+      "monthly_installs": 2013,
+      "cumulative_stock": 147145,
+      "penetration_pct": 7.95,
+      "gap_to_target": 637855
+    },
+    {
+      "period": "2019-04",
+      "year": 2019,
+      "month": 4,
+      "monthly_installs": 2651,
+      "cumulative_stock": 149784,
+      "penetration_pct": 8.1,
+      "gap_to_target": 635216
+    },
+    {
+      "period": "2019-05",
+      "year": 2019,
+      "month": 5,
+      "monthly_installs": 2410,
+      "cumulative_stock": 152253,
+      "penetration_pct": 8.23,
+      "gap_to_target": 632747
+    },
+    {
+      "period": "2019-06",
+      "year": 2019,
+      "month": 6,
+      "monthly_installs": 2079,
+      "cumulative_stock": 154461,
+      "penetration_pct": 8.35,
+      "gap_to_target": 630539
+    },
+    {
+      "period": "2019-07",
+      "year": 2019,
+      "month": 7,
+      "monthly_installs": 1825,
+      "cumulative_stock": 156412,
+      "penetration_pct": 8.45,
+      "gap_to_target": 628588
+    },
+    {
+      "period": "2019-08",
+      "year": 2019,
+      "month": 8,
+      "monthly_installs": 1854,
+      "cumulative_stock": 158292,
+      "penetration_pct": 8.56,
+      "gap_to_target": 626708
+    },
+    {
+      "period": "2019-09",
+      "year": 2019,
+      "month": 9,
+      "monthly_installs": 2375,
+      "cumulative_stock": 160510,
+      "penetration_pct": 8.68,
+      "gap_to_target": 624490
+    },
+    {
+      "period": "2019-10",
+      "year": 2019,
+      "month": 10,
+      "monthly_installs": 2194,
+      "cumulative_stock": 162813,
+      "penetration_pct": 8.8,
+      "gap_to_target": 622187
+    },
+    {
+      "period": "2019-11",
+      "year": 2019,
+      "month": 11,
+      "monthly_installs": 2148,
+      "cumulative_stock": 164904,
+      "penetration_pct": 8.91,
+      "gap_to_target": 620096
+    },
+    {
+      "period": "2019-12",
+      "year": 2019,
+      "month": 12,
+      "monthly_installs": 2081,
+      "cumulative_stock": 166862,
+      "penetration_pct": 9.02,
+      "gap_to_target": 618138
+    },
+    {
+      "period": "2020-01",
+      "year": 2020,
+      "month": 1,
+      "monthly_installs": 743,
+      "cumulative_stock": 167656,
+      "penetration_pct": 9.06,
+      "gap_to_target": 617344
+    },
+    {
+      "period": "2020-02",
+      "year": 2020,
+      "month": 2,
+      "monthly_installs": 880,
+      "cumulative_stock": 168570,
+      "penetration_pct": 9.11,
+      "gap_to_target": 616430
+    },
+    {
+      "period": "2020-03",
+      "year": 2020,
+      "month": 3,
+      "monthly_installs": 1324,
+      "cumulative_stock": 169834,
+      "penetration_pct": 9.18,
+      "gap_to_target": 615166
+    },
+    {
+      "period": "2020-04",
+      "year": 2020,
+      "month": 4,
+      "monthly_installs": 1461,
+      "cumulative_stock": 171312,
+      "penetration_pct": 9.26,
+      "gap_to_target": 613688
+    },
+    {
+      "period": "2020-05",
+      "year": 2020,
+      "month": 5,
+      "monthly_installs": 1329,
+      "cumulative_stock": 172746,
+      "penetration_pct": 9.34,
+      "gap_to_target": 612254
+    },
+    {
+      "period": "2020-06",
+      "year": 2020,
+      "month": 6,
+      "monthly_installs": 1179,
+      "cumulative_stock": 174011,
+      "penetration_pct": 9.41,
+      "gap_to_target": 610989
+    },
+    {
+      "period": "2020-07",
+      "year": 2020,
+      "month": 7,
+      "monthly_installs": 977,
+      "cumulative_stock": 175101,
+      "penetration_pct": 9.46,
+      "gap_to_target": 609899
+    },
+    {
+      "period": "2020-08",
+      "year": 2020,
+      "month": 8,
+      "monthly_installs": 1098,
+      "cumulative_stock": 176203,
+      "penetration_pct": 9.52,
+      "gap_to_target": 608797
+    },
+    {
+      "period": "2020-09",
+      "year": 2020,
+      "month": 9,
+      "monthly_installs": 1217,
+      "cumulative_stock": 177536,
+      "penetration_pct": 9.6,
+      "gap_to_target": 607464
+    },
+    {
+      "period": "2020-10",
+      "year": 2020,
+      "month": 10,
+      "monthly_installs": 1225,
+      "cumulative_stock": 178831,
+      "penetration_pct": 9.67,
+      "gap_to_target": 606169
+    },
+    {
+      "period": "2020-11",
+      "year": 2020,
+      "month": 11,
+      "monthly_installs": 1114,
+      "cumulative_stock": 179987,
+      "penetration_pct": 9.73,
+      "gap_to_target": 605013
+    },
+    {
+      "period": "2020-12",
+      "year": 2020,
+      "month": 12,
+      "monthly_installs": 900,
+      "cumulative_stock": 181026,
+      "penetration_pct": 9.79,
+      "gap_to_target": 603974
+    },
+    {
+      "period": "2021-01",
+      "year": 2021,
+      "month": 1,
+      "monthly_installs": 1004,
+      "cumulative_stock": 182099,
+      "penetration_pct": 9.84,
+      "gap_to_target": 602901
+    },
+    {
+      "period": "2021-02",
+      "year": 2021,
+      "month": 2,
+      "monthly_installs": 993,
+      "cumulative_stock": 183139,
+      "penetration_pct": 9.9,
+      "gap_to_target": 601861
+    },
+    {
+      "period": "2021-03",
+      "year": 2021,
+      "month": 3,
+      "monthly_installs": 1409,
+      "cumulative_stock": 184657,
+      "penetration_pct": 9.98,
+      "gap_to_target": 600343
+    },
+    {
+      "period": "2021-04",
+      "year": 2021,
+      "month": 4,
+      "monthly_installs": 1585,
+      "cumulative_stock": 186376,
+      "penetration_pct": 10.07,
+      "gap_to_target": 598624
+    },
+    {
+      "period": "2021-05",
+      "year": 2021,
+      "month": 5,
+      "monthly_installs": 1565,
+      "cumulative_stock": 187982,
+      "penetration_pct": 10.16,
+      "gap_to_target": 597018
+    },
+    {
+      "period": "2021-06",
+      "year": 2021,
+      "month": 6,
+      "monthly_installs": 1399,
+      "cumulative_stock": 189510,
+      "penetration_pct": 10.24,
+      "gap_to_target": 595490
+    },
+    {
+      "period": "2021-07",
+      "year": 2021,
+      "month": 7,
+      "monthly_installs": 1336,
+      "cumulative_stock": 190870,
+      "penetration_pct": 10.32,
+      "gap_to_target": 594130
+    },
+    {
+      "period": "2021-08",
+      "year": 2021,
+      "month": 8,
+      "monthly_installs": 1404,
+      "cumulative_stock": 192299,
+      "penetration_pct": 10.39,
+      "gap_to_target": 592701
+    },
+    {
+      "period": "2021-09",
+      "year": 2021,
+      "month": 9,
+      "monthly_installs": 1438,
+      "cumulative_stock": 193819,
+      "penetration_pct": 10.48,
+      "gap_to_target": 591181
+    },
+    {
+      "period": "2021-10",
+      "year": 2021,
+      "month": 10,
+      "monthly_installs": 1508,
+      "cumulative_stock": 195374,
+      "penetration_pct": 10.56,
+      "gap_to_target": 589626
+    },
+    {
+      "period": "2021-11",
+      "year": 2021,
+      "month": 11,
+      "monthly_installs": 1221,
+      "cumulative_stock": 196702,
+      "penetration_pct": 10.63,
+      "gap_to_target": 588298
+    },
+    {
+      "period": "2021-12",
+      "year": 2021,
+      "month": 12,
+      "monthly_installs": 1191,
+      "cumulative_stock": 197971,
+      "penetration_pct": 10.7,
+      "gap_to_target": 587029
+    },
+    {
+      "period": "2022-01",
+      "year": 2022,
+      "month": 1,
+      "monthly_installs": 919,
+      "cumulative_stock": 199001,
+      "penetration_pct": 10.76,
+      "gap_to_target": 585999
+    },
+    {
+      "period": "2022-02",
+      "year": 2022,
+      "month": 2,
+      "monthly_installs": 938,
+      "cumulative_stock": 200017,
+      "penetration_pct": 10.81,
+      "gap_to_target": 584983
+    },
+    {
+      "period": "2022-03",
+      "year": 2022,
+      "month": 3,
+      "monthly_installs": 1460,
+      "cumulative_stock": 201552,
+      "penetration_pct": 10.89,
+      "gap_to_target": 583448
+    },
+    {
+      "period": "2022-04",
+      "year": 2022,
+      "month": 4,
+      "monthly_installs": 1529,
+      "cumulative_stock": 203178,
+      "penetration_pct": 10.98,
+      "gap_to_target": 581822
+    },
+    {
+      "period": "2022-05",
+      "year": 2022,
+      "month": 5,
+      "monthly_installs": 1499,
+      "cumulative_stock": 204809,
+      "penetration_pct": 11.07,
+      "gap_to_target": 580191
+    },
+    {
+      "period": "2022-06",
+      "year": 2022,
+      "month": 6,
+      "monthly_installs": 1312,
+      "cumulative_stock": 206218,
+      "penetration_pct": 11.15,
+      "gap_to_target": 578782
+    },
+    {
+      "period": "2022-07",
+      "year": 2022,
+      "month": 7,
+      "monthly_installs": 1307,
+      "cumulative_stock": 207572,
+      "penetration_pct": 11.22,
+      "gap_to_target": 577428
+    },
+    {
+      "period": "2022-08",
+      "year": 2022,
+      "month": 8,
+      "monthly_installs": 1169,
+      "cumulative_stock": 208866,
+      "penetration_pct": 11.29,
+      "gap_to_target": 576134
+    },
+    {
+      "period": "2022-09",
+      "year": 2022,
+      "month": 9,
+      "monthly_installs": 1484,
+      "cumulative_stock": 210436,
+      "penetration_pct": 11.37,
+      "gap_to_target": 574564
+    },
+    {
+      "period": "2022-10",
+      "year": 2022,
+      "month": 10,
+      "monthly_installs": 1550,
+      "cumulative_stock": 212080,
+      "penetration_pct": 11.46,
+      "gap_to_target": 572920
+    },
+    {
+      "period": "2022-11",
+      "year": 2022,
+      "month": 11,
+      "monthly_installs": 1342,
+      "cumulative_stock": 213470,
+      "penetration_pct": 11.54,
+      "gap_to_target": 571530
+    },
+    {
+      "period": "2022-12",
+      "year": 2022,
+      "month": 12,
+      "monthly_installs": 1253,
+      "cumulative_stock": 214751,
+      "penetration_pct": 11.61,
+      "gap_to_target": 570249
+    },
+    {
+      "period": "2023-01",
+      "year": 2023,
+      "month": 1,
+      "monthly_installs": 958,
+      "cumulative_stock": 215807,
+      "penetration_pct": 11.67,
+      "gap_to_target": 569193
+    },
+    {
+      "period": "2023-02",
+      "year": 2023,
+      "month": 2,
+      "monthly_installs": 1112,
+      "cumulative_stock": 216926,
+      "penetration_pct": 11.73,
+      "gap_to_target": 568074
+    },
+    {
+      "period": "2023-03",
+      "year": 2023,
+      "month": 3,
+      "monthly_installs": 1449,
+      "cumulative_stock": 218509,
+      "penetration_pct": 11.81,
+      "gap_to_target": 566491
+    },
+    {
+      "period": "2023-04",
+      "year": 2023,
+      "month": 4,
+      "monthly_installs": 1860,
+      "cumulative_stock": 220496,
+      "penetration_pct": 11.92,
+      "gap_to_target": 564504
+    },
+    {
+      "period": "2023-05",
+      "year": 2023,
+      "month": 5,
+      "monthly_installs": 1856,
+      "cumulative_stock": 222378,
+      "penetration_pct": 12.02,
+      "gap_to_target": 562622
+    },
+    {
+      "period": "2023-06",
+      "year": 2023,
+      "month": 6,
+      "monthly_installs": 1458,
+      "cumulative_stock": 223996,
+      "penetration_pct": 12.11,
+      "gap_to_target": 561004
+    },
+    {
+      "period": "2023-07",
+      "year": 2023,
+      "month": 7,
+      "monthly_installs": 1367,
+      "cumulative_stock": 225465,
+      "penetration_pct": 12.19,
+      "gap_to_target": 559535
+    },
+    {
+      "period": "2023-08",
+      "year": 2023,
+      "month": 8,
+      "monthly_installs": 1329,
+      "cumulative_stock": 226880,
+      "penetration_pct": 12.26,
+      "gap_to_target": 558120
+    },
+    {
+      "period": "2023-09",
+      "year": 2023,
+      "month": 9,
+      "monthly_installs": 1662,
+      "cumulative_stock": 228526,
+      "penetration_pct": 12.35,
+      "gap_to_target": 556474
+    },
+    {
+      "period": "2023-10",
+      "year": 2023,
+      "month": 10,
+      "monthly_installs": 1621,
+      "cumulative_stock": 230178,
+      "penetration_pct": 12.44,
+      "gap_to_target": 554822
+    },
+    {
+      "period": "2023-11",
+      "year": 2023,
+      "month": 11,
+      "monthly_installs": 1361,
+      "cumulative_stock": 231650,
+      "penetration_pct": 12.52,
+      "gap_to_target": 553350
+    },
+    {
+      "period": "2023-12",
+      "year": 2023,
+      "month": 12,
+      "monthly_installs": 1254,
+      "cumulative_stock": 233026,
+      "penetration_pct": 12.6,
+      "gap_to_target": 551974
+    },
+    {
+      "period": "2024-01",
+      "year": 2024,
+      "month": 1,
+      "monthly_installs": 1188,
+      "cumulative_stock": 234290,
+      "penetration_pct": 12.66,
+      "gap_to_target": 550710
+    },
+    {
+      "period": "2024-02",
+      "year": 2024,
+      "month": 2,
+      "monthly_installs": 1348,
+      "cumulative_stock": 235717,
+      "penetration_pct": 12.74,
+      "gap_to_target": 549283
+    },
+    {
+      "period": "2024-03",
+      "year": 2024,
+      "month": 3,
+      "monthly_installs": 1874,
+      "cumulative_stock": 237779,
+      "penetration_pct": 12.85,
+      "gap_to_target": 547221
+    },
+    {
+      "period": "2024-04",
+      "year": 2024,
+      "month": 4,
+      "monthly_installs": 2097,
+      "cumulative_stock": 239909,
+      "penetration_pct": 12.97,
+      "gap_to_target": 545091
+    },
+    {
+      "period": "2024-05",
+      "year": 2024,
+      "month": 5,
+      "monthly_installs": 2030,
+      "cumulative_stock": 241994,
+      "penetration_pct": 13.08,
+      "gap_to_target": 543006
+    },
+    {
+      "period": "2024-06",
+      "year": 2024,
+      "month": 6,
+      "monthly_installs": 2135,
+      "cumulative_stock": 244435,
+      "penetration_pct": 13.21,
+      "gap_to_target": 540565
+    },
+    {
+      "period": "2024-07",
+      "year": 2024,
+      "month": 7,
+      "monthly_installs": 1977,
+      "cumulative_stock": 246586,
+      "penetration_pct": 13.33,
+      "gap_to_target": 538414
+    },
+    {
+      "period": "2024-08",
+      "year": 2024,
+      "month": 8,
+      "monthly_installs": 1816,
+      "cumulative_stock": 248582,
+      "penetration_pct": 13.44,
+      "gap_to_target": 536418
+    },
+    {
+      "period": "2024-09",
+      "year": 2024,
+      "month": 9,
+      "monthly_installs": 2260,
+      "cumulative_stock": 250951,
+      "penetration_pct": 13.56,
+      "gap_to_target": 534049
+    },
+    {
+      "period": "2024-10",
+      "year": 2024,
+      "month": 10,
+      "monthly_installs": 2350,
+      "cumulative_stock": 253481,
+      "penetration_pct": 13.7,
+      "gap_to_target": 531519
+    },
+    {
+      "period": "2024-11",
+      "year": 2024,
+      "month": 11,
+      "monthly_installs": 2236,
+      "cumulative_stock": 255642,
+      "penetration_pct": 13.82,
+      "gap_to_target": 529358
+    },
+    {
+      "period": "2024-12",
+      "year": 2024,
+      "month": 12,
+      "monthly_installs": 1824,
+      "cumulative_stock": 257628,
+      "penetration_pct": 13.93,
+      "gap_to_target": 527372
+    },
+    {
+      "period": "2025-01",
+      "year": 2025,
+      "month": 1,
+      "monthly_installs": 1420,
+      "cumulative_stock": 259204,
+      "penetration_pct": 14.01,
+      "gap_to_target": 525796
+    },
+    {
+      "period": "2025-02",
+      "year": 2025,
+      "month": 2,
+      "monthly_installs": 1529,
+      "cumulative_stock": 260850,
+      "penetration_pct": 14.1,
+      "gap_to_target": 524150
+    },
+    {
+      "period": "2025-03",
+      "year": 2025,
+      "month": 3,
+      "monthly_installs": 2568,
+      "cumulative_stock": 263314,
+      "penetration_pct": 14.23,
+      "gap_to_target": 521686
+    },
+    {
+      "period": "2025-04",
+      "year": 2025,
+      "month": 4,
+      "monthly_installs": 2761,
+      "cumulative_stock": 266156,
+      "penetration_pct": 14.39,
+      "gap_to_target": 518844
+    },
+    {
+      "period": "2025-05",
+      "year": 2025,
+      "month": 5,
+      "monthly_installs": 2783,
+      "cumulative_stock": 268984,
+      "penetration_pct": 14.54,
+      "gap_to_target": 516016
+    },
+    {
+      "period": "2025-06",
+      "year": 2025,
+      "month": 6,
+      "monthly_installs": 2308,
+      "cumulative_stock": 271259,
+      "penetration_pct": 14.66,
+      "gap_to_target": 513741
+    },
+    {
+      "period": "2025-07",
+      "year": 2025,
+      "month": 7,
+      "monthly_installs": 2189,
+      "cumulative_stock": 273522,
+      "penetration_pct": 14.78,
+      "gap_to_target": 511478
+    },
+    {
+      "period": "2025-08",
+      "year": 2025,
+      "month": 8,
+      "monthly_installs": 2083,
+      "cumulative_stock": 275646,
+      "penetration_pct": 14.9,
+      "gap_to_target": 509354
+    },
+    {
+      "period": "2025-09",
+      "year": 2025,
+      "month": 9,
+      "monthly_installs": 2406,
+      "cumulative_stock": 278263,
+      "penetration_pct": 15.04,
+      "gap_to_target": 506737
+    },
+    {
+      "period": "2025-10",
+      "year": 2025,
+      "month": 10,
+      "monthly_installs": 2681,
+      "cumulative_stock": 280910,
+      "penetration_pct": 15.18,
+      "gap_to_target": 504090
+    },
+    {
+      "period": "2025-11",
+      "year": 2025,
+      "month": 11,
+      "monthly_installs": 2051,
+      "cumulative_stock": 283161,
+      "penetration_pct": 15.31,
+      "gap_to_target": 501839
+    },
+    {
+      "period": "2025-12",
+      "year": 2025,
+      "month": 12,
+      "monthly_installs": 1978,
+      "cumulative_stock": 285290,
+      "penetration_pct": 15.42,
+      "gap_to_target": 499710
+    }
+  ],
+  "annual_snapshots": [
+    {
+      "year": 2018,
+      "eoy_stock": 142003,
+      "penetration_pct": 7.68,
+      "gap_to_target": 642997,
+      "pct_of_target": 18.1
+    },
+    {
+      "year": 2019,
+      "eoy_stock": 166862,
+      "penetration_pct": 9.02,
+      "gap_to_target": 618138,
+      "pct_of_target": 21.3
+    },
+    {
+      "year": 2020,
+      "eoy_stock": 181026,
+      "penetration_pct": 9.79,
+      "gap_to_target": 603974,
+      "pct_of_target": 23.1
+    },
+    {
+      "year": 2021,
+      "eoy_stock": 197971,
+      "penetration_pct": 10.7,
+      "gap_to_target": 587029,
+      "pct_of_target": 25.2
+    },
+    {
+      "year": 2022,
+      "eoy_stock": 214751,
+      "penetration_pct": 11.61,
+      "gap_to_target": 570249,
+      "pct_of_target": 27.4
+    },
+    {
+      "year": 2023,
+      "eoy_stock": 233026,
+      "penetration_pct": 12.6,
+      "gap_to_target": 551974,
+      "pct_of_target": 29.7
+    },
+    {
+      "year": 2024,
+      "eoy_stock": 257628,
+      "penetration_pct": 13.93,
+      "gap_to_target": 527372,
+      "pct_of_target": 32.8
+    },
+    {
+      "year": 2025,
+      "eoy_stock": 285290,
+      "penetration_pct": 15.42,
+      "gap_to_target": 499710,
+      "pct_of_target": 36.3
+    }
+  ]
+}

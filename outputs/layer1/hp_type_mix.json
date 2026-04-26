@@ -1,0 +1,257 @@
+{
+  "output": "L1.4 \u2014 Heat pump type mix",
+  "description": "Annual installs by equipment type. Ground-source share is a market maturity signal.",
+  "types_tracked": [
+    "mini_split",
+    "central_ducted",
+    "ground_source",
+    "water_heater"
+  ],
+  "annual": [
+    {
+      "year": 2018,
+      "total": 20236,
+      "types": {
+        "mini_split": {
+          "installs": 9853,
+          "share_pct": 48.7
+        },
+        "central_ducted": {
+          "installs": 7766,
+          "share_pct": 38.4
+        },
+        "ground_source": {
+          "installs": 677,
+          "share_pct": 3.3
+        },
+        "water_heater": {
+          "installs": 1940,
+          "share_pct": 9.6
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 3.3
+    },
+    {
+      "year": 2019,
+      "total": 24574,
+      "types": {
+        "mini_split": {
+          "installs": 12170,
+          "share_pct": 49.5
+        },
+        "central_ducted": {
+          "installs": 9167,
+          "share_pct": 37.3
+        },
+        "ground_source": {
+          "installs": 856,
+          "share_pct": 3.5
+        },
+        "water_heater": {
+          "installs": 2381,
+          "share_pct": 9.7
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 3.5
+    },
+    {
+      "year": 2020,
+      "total": 13447,
+      "types": {
+        "mini_split": {
+          "installs": 6925,
+          "share_pct": 51.5
+        },
+        "central_ducted": {
+          "installs": 4879,
+          "share_pct": 36.3
+        },
+        "ground_source": {
+          "installs": 541,
+          "share_pct": 4.0
+        },
+        "water_heater": {
+          "installs": 1102,
+          "share_pct": 8.2
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 4.0
+    },
+    {
+      "year": 2021,
+      "total": 16053,
+      "types": {
+        "mini_split": {
+          "installs": 8355,
+          "share_pct": 52.0
+        },
+        "central_ducted": {
+          "installs": 5679,
+          "share_pct": 35.4
+        },
+        "ground_source": {
+          "installs": 685,
+          "share_pct": 4.3
+        },
+        "water_heater": {
+          "installs": 1334,
+          "share_pct": 8.3
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 4.3
+    },
+    {
+      "year": 2022,
+      "total": 15762,
+      "types": {
+        "mini_split": {
+          "installs": 8363,
+          "share_pct": 53.1
+        },
+        "central_ducted": {
+          "installs": 5417,
+          "share_pct": 34.4
+        },
+        "ground_source": {
+          "installs": 662,
+          "share_pct": 4.2
+        },
+        "water_heater": {
+          "installs": 1320,
+          "share_pct": 8.4
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 4.2
+    },
+    {
+      "year": 2023,
+      "total": 17287,
+      "types": {
+        "mini_split": {
+          "installs": 9348,
+          "share_pct": 54.1
+        },
+        "central_ducted": {
+          "installs": 5742,
+          "share_pct": 33.2
+        },
+        "ground_source": {
+          "installs": 916,
+          "share_pct": 5.3
+        },
+        "water_heater": {
+          "installs": 1281,
+          "share_pct": 7.4
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 5.3
+    },
+    {
+      "year": 2024,
+      "total": 23135,
+      "types": {
+        "mini_split": {
+          "installs": 12923,
+          "share_pct": 55.9
+        },
+        "central_ducted": {
+          "installs": 7199,
+          "share_pct": 31.1
+        },
+        "ground_source": {
+          "installs": 1266,
+          "share_pct": 5.5
+        },
+        "water_heater": {
+          "installs": 1747,
+          "share_pct": 7.6
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 5.5
+    },
+    {
+      "year": 2025,
+      "total": 26757,
+      "types": {
+        "mini_split": {
+          "installs": 15176,
+          "share_pct": 56.7
+        },
+        "central_ducted": {
+          "installs": 8061,
+          "share_pct": 30.1
+        },
+        "ground_source": {
+          "installs": 1760,
+          "share_pct": 6.6
+        },
+        "water_heater": {
+          "installs": 1760,
+          "share_pct": 6.6
+        }
+      },
+      "dominant_type": "mini_split",
+      "ground_source_share_pct": 6.6
+    }
+  ],
+  "ground_source_trend": [
+    {
+      "year": 2018,
+      "share_pct": 3.3,
+      "installs": 677
+    },
+    {
+      "year": 2019,
+      "share_pct": 3.5,
+      "installs": 856
+    },
+    {
+      "year": 2020,
+      "share_pct": 4.0,
+      "installs": 541
+    },
+    {
+      "year": 2021,
+      "share_pct": 4.3,
+      "installs": 685
+    },
+    {
+      "year": 2022,
+      "share_pct": 4.2,
+      "installs": 662
+    },
+    {
+      "year": 2023,
+      "share_pct": 5.3,
+      "installs": 916
+    },
+    {
+      "year": 2024,
+      "share_pct": 5.5,
+      "installs": 1266
+    },
+    {
+      "year": 2025,
+      "share_pct": 6.6,
+      "installs": 1760
+    }
+  ],
+  "ground_source_share_change_pp_2018_2025": 3.3,
+  "latest_year_snapshot": {
+    "year": 2025,
+    "dominant_type": "mini_split",
+    "types": {
+      "mini_split": 56.7,
+      "central_ducted": 30.1,
+      "ground_source": 6.6,
+      "water_heater": 6.6
+    }
+  }
+}
